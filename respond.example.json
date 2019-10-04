@@ -1,0 +1,307 @@
+{
+    "id": 100101,
+    "username": "Hidden",
+    "join_date": "2017-10-21T17:04:39+00:00",
+    "country": {
+        "code": "US",
+        "name": "United States"
+    },
+    "avatar_url": "https:\\/\\/a.ppy.sh\\/100101?1531673368.jpg",
+    "is_supporter": false,
+    "has_supported": true,
+    "is_gmt": false,
+    "is_nat": false,
+    "is_bng": false,
+    "is_full_bn": false,
+    "is_limited_bn": false,
+    "is_bot": false,
+    "is_active": true,
+    "interests": "osu! ,coding(noob) , hiking",
+    "occupation": "Student",
+    "title": null,
+    "location": "Los Angeles, CA",
+    "last_visit": "2019-06-10T10:53:30+00:00",
+    "is_online": false,
+    "twitter": null,
+    "lastfm": null,
+    "skype": "Hidden",
+    "website": null,
+    "discord": "Hidden#2725",
+    "playstyle": [
+        "mouse",
+        "keyboard"
+    ],
+    "playmode": "osu",
+    "pm_friends_only": false,
+    "post_count": 0,
+    "profile_colour": null,
+    "profile_order": [
+        "me",
+        "recent_activity",
+        "top_ranks",
+        "medals",
+        "historical",
+        "beatmaps",
+        "kudosu"
+    ],
+    "cover_url": "https:\\/\\/assets.ppy.sh\\/user-profile-covers\\/100101\\/d34182717c3e76a478a8df8d38ba0f5dc1e0b84b653ff241cd95639402881f10.jpeg",
+    "cover": {
+        "custom_url": "https:\\/\\/assets.ppy.sh\\/user-profile-covers\\/100101\\/d34182717c3e76a478a8df8d38ba0f5dc1e0b84b653ff241cd95639402881f10.jpeg",
+        "url": "https:\\/\\/assets.ppy.sh\\/user-profile-covers\\/100101\\/d34182717c3e76a478a8df8d38ba0f5dc1e0b84b653ff241cd95639402881f10.jpeg",
+        "id": null
+    },
+    "kudosu": {
+        "total": 0,
+        "available": 0
+    },
+    "max_blocks": 25,
+    "max_friends": 250,
+    "account_history": [],
+    "active_tournament_banner": [],
+    "badges": [],
+    "favourite_beatmapset_count": [
+        3
+    ],
+    "follower_count": [
+        42
+    ],
+    "graveyard_beatmapset_count": [
+        0
+    ],
+    "loved_beatmapset_count": [
+        0
+    ],
+    "monthly_playcounts": [
+        {
+            "start_date": "2017-10-01",
+            "count": 58
+        },
+        {
+            "start_date": "2017-11-01",
+            "count": 34
+        },
+        {
+            "start_date": "2017-12-01",
+            "count": 29
+        },
+        {
+            "start_date": "2018-01-01",
+            "count": 52
+        },
+        {
+            "start_date": "2018-02-01",
+            "count": 234
+        },
+        {
+            "start_date": "2018-03-01",
+            "count": 205
+        },
+        {
+            "start_date": "2018-04-01",
+            "count": 335
+        },
+        {
+            "start_date": "2018-05-01",
+            "count": 529
+        },
+        {
+            "start_date": "2018-06-01",
+            "count": 362
+        },
+        {
+            "start_date": "2018-07-01",
+            "count": 566
+        },
+        {
+            "start_date": "2018-08-01",
+            "count": 95
+        },
+        {
+            "start_date": "2018-09-01",
+            "count": 16
+        },
+        {
+            "start_date": "2018-10-01",
+            "count": 110
+        },
+        {
+            "start_date": "2018-11-01",
+            "count": 46
+        },
+        {
+            "start_date": "2018-12-01",
+            "count": 127
+        },
+        {
+            "start_date": "2019-01-01",
+            "count": 301
+        },
+        {
+            "start_date": "2019-02-01",
+            "count": 293
+        },
+        {
+            "start_date": "2019-03-01",
+            "count": 105
+        },
+        {
+            "start_date": "2019-04-01",
+            "count": 174
+        },
+        {
+            "start_date": "2019-05-01",
+            "count": 22
+        },
+        {
+            "start_date": "2019-06-01",
+            "count": 24
+        }
+    ],
+    "previous_usernames": [
+        "Cinhi4Ever"
+    ],
+    "ranked_and_approved_beatmapset_count": [
+        0
+    ],
+    "replays_watched_counts": [],
+    "scores_first_count": [
+        0
+    ],
+    "statistics": {
+        "level": {
+            "current": 65,
+            "progress": 29
+        },
+        "pp": 760.727,
+        "pp_rank": 369229,
+        "ranked_score": 396441054,
+        "hit_accuracy": 95.362,
+        "play_count": 3694,
+        "play_time": 263341,
+        "total_score": 1835125128,
+        "total_hits": 599367,
+        "maximum_combo": 879,
+        "replays_watched_by_others": 0,
+        "is_ranked": true,
+        "grade_counts": {
+            "ss": 1,
+            "ssh": 3,
+            "s": 48,
+            "sh": 18,
+            "a": 98
+        },
+        "rank": {
+            "global": 369229,
+            "country": 8778
+        },
+        "scoreRanks": {
+            "XH": 3,
+            "SH": 18,
+            "X": 1,
+            "S": 48,
+            "A": 98
+        }
+    },
+    "support_level": 0,
+    "unranked_beatmapset_count": [
+        0
+    ],
+    "user_achievements": [
+        {
+            "achieved_at": "2019-01-26T16:00:43+00:00",
+            "achievement_id": 59
+        },
+        {
+            "achieved_at": "2019-01-17T10:57:01+00:00",
+            "achievement_id": 87
+        },
+        {
+            "achieved_at": "2019-01-17T10:57:01+00:00",
+            "achievement_id": 54
+        },
+        {
+            "achieved_at": "2018-12-31T07:55:52+00:00",
+            "achievement_id": 119
+        },
+        {
+            "achieved_at": "2018-10-04T14:00:32+00:00",
+            "achievement_id": 58
+        },
+        {
+            "achieved_at": "2018-06-02T14:19:44+00:00",
+            "achievement_id": 176
+        },
+        {
+            "achieved_at": "2018-05-20T05:14:47+00:00",
+            "achievement_id": 15
+        },
+        {
+            "achieved_at": "2018-05-18T14:16:04+00:00",
+            "achievement_id": 138
+        },
+        {
+            "achieved_at": "2018-05-13T04:16:02+00:00",
+            "achievement_id": 126
+        },
+        {
+            "achieved_at": "2018-05-12T14:12:21+00:00",
+            "achievement_id": 3
+        },
+        {
+            "achieved_at": "2018-04-25T13:19:41+00:00",
+            "achievement_id": 39
+        },
+        {
+            "achieved_at": "2018-03-17T13:45:06+00:00",
+            "achievement_id": 148
+        },
+        {
+            "achieved_at": "2018-03-10T14:48:47+00:00",
+            "achievement_id": 1
+        },
+        {
+            "achieved_at": "2018-03-03T11:54:00+00:00",
+            "achievement_id": 64
+        },
+        {
+            "achieved_at": "2018-02-16T14:36:06+00:00",
+            "achievement_id": 127
+        },
+        {
+            "achieved_at": "2018-02-16T13:45:35+00:00",
+            "achievement_id": 57
+        },
+        {
+            "achieved_at": "2018-02-16T13:40:08+00:00",
+            "achievement_id": 124
+        },
+        {
+            "achieved_at": "2018-02-02T12:50:57+00:00",
+            "achievement_id": 121
+        },
+        {
+            "achieved_at": "2017-10-28T18:48:38+00:00",
+            "achievement_id": 71
+        },
+        {
+            "achieved_at": "2017-10-28T17:57:39+00:00",
+            "achievement_id": 122
+        },
+        {
+            "achieved_at": "2017-10-28T17:45:33+00:00",
+            "achievement_id": 63
+        },
+        {
+            "achieved_at": "2017-10-22T07:35:28+00:00",
+            "achievement_id": 123
+        },
+        {
+            "achieved_at": "2017-10-22T06:48:53+00:00",
+            "achievement_id": 56
+        },
+        {
+            "achieved_at": "2017-10-22T06:40:02+00:00",
+            "achievement_id": 55
+        }
+    ]
+}

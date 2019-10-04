@@ -1,0 +1,26 @@
+[
+    {
+        "user_id": "100101",
+        "username": "Hidden",
+        "join_date": "2017-10-21 17:04:39",
+        "count300": "527094",
+        "count100": "64847",
+        "count50": "7426",
+        "playcount": "3694",
+        "ranked_score": "396441054",
+        "total_score": "1835125128",
+        "pp_rank": "369229",
+        "level": "65.2998",
+        "pp_raw": "760.727",
+        "accuracy": "95.36200714111328",
+        "count_rank_ss": "1",
+        "count_rank_ssh": "3",
+        "count_rank_s": "48",
+        "count_rank_sh": "18",
+        "count_rank_a": "98",
+        "country": "US",
+        "total_seconds_played": "263341",
+        "pp_country_rank": "8777",
+        "events": []
+    }
+]
