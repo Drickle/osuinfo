@@ -33,16 +33,16 @@ def Parse_rawjson(source,fromwhat,type,mode=''):
     else :
         tmpdict = {
             'level'         : int(source['level']['current']          if fromwhat == 0 else int(source['level'])),
-            'lvprgs'        : float(source['level']['progress'] / 100 if fromwhat == 0 else float(source['level']\
-                            - int(source['level']))),
+            'lvprgs'        : float(source['level']['progress'] / 100.0 if fromwhat == 0 else float(source['level']\
+                            - float(source['level']))),
             'rank'          : int(source['pp_rank']),
             'countryrank'   : int(source['rank']['country']         if fromwhat == 0 else source['pp_country_rank']),
             'totalplaytime' : int(source['play_time']               if fromwhat == 0 else source['total_seconds_played']),
             'playcount'     : int(source['play_count']              if fromwhat == 0 else source['playcount']),
             'accuracy'      : float(source['hit_accuracy']            if fromwhat == 0 else source['accuracy']),
             'rankedscore'   : int(source['ranked_score']),
-            'totalhits'     : int(source['total_hits']              if fromwhat == 0 else (source['count300'] + \
-                                                                    source['count1000'] + source['count50'])),
+            'totalhits'     : int(source['total_hits']              if fromwhat == 0 else (int(source['count300']) + \
+                                                                    int(source['count1000']) + int(source['count50']))),
             'totalscore'    : int(source['total_score']),
             'maxcombo'      : int(source['maximum_combo']           if fromwhat == 0 else None),
             'pp'            : float(source['pp']                    if fromwhat == 0 else source['pp_raw']),
@@ -144,5 +144,9 @@ class User:
                     raise CantAccessAPI
             except request.URLError:
                 raise CantAccessAPI
-        self.info = Info(dict=(Parse_rawjson(self.rawjson,self.__source,mode=mode,type='info')))
-        self.stat = Statistics(dict=Parse_rawjson((self.rawjson['statistics'] if self.__source == 0 else self.rawjson),self.__source,type='statistics'),Decimal=Decimal)
+
+        try:
+            self.info = Info(dict=(Parse_rawjson(self.rawjson,self.__source,mode=mode,type='info')))
+            self.stat = Statistics(dict=Parse_rawjson((self.rawjson['statistics'] if self.__source == 0 else self.rawjson),self.__source,type='statistics'),Decimal=Decimal)
+        except Exception as e:
+            raise NoRecentException(user,e)
